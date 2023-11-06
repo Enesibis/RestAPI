@@ -1,7 +1,6 @@
 # RestAPI
-MVC mantığıyla,jdbctemplate kullanarak MySQL databasesine bağlanan bir RestApi.
+MVC standartlarına göre yazılmış ve MySQL databsesine bağlanan bir restApi uygulaması;
 
-## proje özellikleri
 Postman kullanarak;
 -Listeleme
 -Ekleme
